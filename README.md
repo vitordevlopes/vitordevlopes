@@ -1,6 +1,6 @@
 # Hello, welcome to my Github profile 😄
 
-I'm Currently learning web development, using HTML, CSS and JavaScript.
+I'm currently learning web development, using HTML, CSS and JavaScript.
 
 <div>
 <a href="https://instagram.com/vitorlop0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
