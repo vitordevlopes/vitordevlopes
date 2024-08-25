@@ -7,9 +7,13 @@ I'm Currently learning web development, using HTML, CSS and JavaScript.
 <a href="https://www.linkedin.com/in/vitorlopess" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevlopes&size_weight=0.5&count_weight=0.5&layout=donut&bg_color=141321" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevlopes&size_weight=0.5&count_weight=0.5&layout=donut&bg_color=141321" />
+  </a>
+</div>
+
 
 
 <!--
