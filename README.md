@@ -1,10 +1,13 @@
-## Hello 👋
+# Hello, welcome to my Github profile 😄
 
-Currently learning web development, using HTML, CSS and JavaScript.
+I'm Currently learning web development, using HTML, CSS and JavaScript.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitordevlopes&show_icons=true&theme=radical )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevlopes)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitordevlopes&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordevlopes&size_weight=0.5&count_weight=0.5&layout=donut" />
+</a>
 
 
 <!--
